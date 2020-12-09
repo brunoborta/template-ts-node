@@ -1,8 +1,8 @@
 {
-  "name": "primeiro-projeto-node",
+  "name": "template-ts-node",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/brunoborta/primeiro-projeto-node.git",
+  "repository": "https://github.com/brunoborta/template-ts-node.git",
   "author": "Bruno Bortagaray <bruno.bortagaray@justwatch.com>",
   "license": "MIT",
   "scripts": {
