@@ -5,12 +5,12 @@ Just be sure you have ESLint, Prettier, and editorconfig set on your VS Code ♥
 
 This template uses `Express`, so I hope this is not an issue for ya. 😜
 
-I'm using 3333 as the port. Who cares, right?
+I'm using 3333 as the port. Who cares, right?<br>
 Just run `yarn dev:server` and have the `ts-node-dev` server the same way `nodemon` does and without `tsc` all the time. That's a pain in the ass.
 
 ## Yarn
 
-I'm using Yarn here because I do like it more than NPM. If you enjoy wasting time and REALLY would much rather use NPM than Yarn, remove the lock one, `npm i' on it and go for it, baby!
+I'm using Yarn here because I do like it more than NPM. If you enjoy wasting time and REALLY would much rather use NPM than Yarn, remove the `yarn.lock`, `npm i` on it and go for it, baby!
 
 ## ESLint
 
